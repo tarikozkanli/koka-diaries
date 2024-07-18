@@ -1,2 +1,2 @@
 # koka-diaries
-The code snippets of Koka language whose qunique characteristic is it's effect handling system.
+The code snippets of Koka language whose unique characteristic is it's algebraic effect typing and handling system.
